@@ -1,6 +1,21 @@
 {
   "cases": [],
-  "clients": [],
+  "clients": [
+    {
+      "id": "_5recr10fcmqm3nsjr",
+      "name": "Khaled",
+      "phone": "",
+      "email": "",
+      "idNum": "6197618043",
+      "address": "القاهره",
+      "notes": "",
+      "photo": "",
+      "tawkeelNum": "2026/309",
+      "tawkeelDate": "2026-06-20",
+      "tawkeelImg": "",
+      "createdAt": "2026-06-20T08:32:35.656Z"
+    }
+  ],
   "staff": [
     {
       "id": "_g7ujxd223mqm3ikus",
@@ -43,6 +58,14 @@
     "officeEmail": ""
   },
   "activityLog": [
+    {
+      "action": "إضافة موكل: Khaled",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٣٢:٣٥ ص"
+    },
+    {
+      "action": "مزامنة مع GitHub",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٣٢:٠٩ ص"
+    },
     {
       "action": "مزامنة مع GitHub",
       "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٣١:٥١ ص"
