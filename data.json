@@ -1,0 +1,89 @@
+{
+  "cases": [],
+  "clients": [],
+  "staff": [
+    {
+      "id": "_g7ujxd223mqm3ikus",
+      "name": "أسلام محمد",
+      "role": "محامي متدرب",
+      "spec": "قانون مدني",
+      "license": "",
+      "phone": "+201004553806",
+      "email": "",
+      "salary": 0,
+      "joinDate": "",
+      "notes": "",
+      "photo": ""
+    },
+    {
+      "id": "_ihw7r5t06mqm3jzyt",
+      "name": "مصطفي محمد",
+      "role": "مستشار قانوني",
+      "spec": "قانون مدني",
+      "license": "",
+      "phone": "",
+      "email": "",
+      "salary": 0,
+      "joinDate": "",
+      "notes": "",
+      "photo": ""
+    }
+  ],
+  "sessions": [],
+  "tasks": [],
+  "payments": [],
+  "documents": [],
+  "attendance": [],
+  "salaries": [],
+  "settings": {
+    "officeName": "AMG للمحاماة والاستشارات القانونية",
+    "officeManager": "مصطفى محمد أباظة",
+    "officeAddress": "",
+    "officePhone": "",
+    "officeEmail": ""
+  },
+  "activityLog": [
+    {
+      "action": "مزامنة مع GitHub",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٣٢:٤١ ص"
+    },
+    {
+      "action": "إضافة موكل: Khaled",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٣٢:٣٥ ص"
+    },
+    {
+      "action": "مزامنة مع GitHub",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٣٢:٠٩ ص"
+    },
+    {
+      "action": "مزامنة مع GitHub",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٣١:٥١ ص"
+    },
+    {
+      "action": "إضافة موظف: مصطفي محمد",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٩:٣٨ ص"
+    },
+    {
+      "action": "مزامنة مع GitHub",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٨:٣٦ ص"
+    },
+    {
+      "action": "إضافة موظف: أسلام محمد",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٨:٣٢ ص"
+    },
+    {
+      "action": "حفظ إعدادات",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٣:٤٩ ص"
+    },
+    {
+      "action": "حفظ إعدادات",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٢:٣٩ ص"
+    },
+    {
+      "action": "حفظ إعدادات",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٢:٢٠ ص"
+    }
+  ],
+  "sessionLogs": [],
+  "version": "6.0"
+}
