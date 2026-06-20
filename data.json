@@ -14,6 +14,19 @@
       "joinDate": "",
       "notes": "",
       "photo": ""
+    },
+    {
+      "id": "_ihw7r5t06mqm3jzyt",
+      "name": "مصطفي محمد",
+      "role": "مستشار قانوني",
+      "spec": "قانون مدني",
+      "license": "",
+      "phone": "",
+      "email": "",
+      "salary": 0,
+      "joinDate": "",
+      "notes": "",
+      "photo": ""
     }
   ],
   "sessions": [],
@@ -30,6 +43,14 @@
     "officeEmail": ""
   },
   "activityLog": [
+    {
+      "action": "إضافة موظف: مصطفي محمد",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٩:٣٨ ص"
+    },
+    {
+      "action": "مزامنة مع GitHub",
+      "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٨:٣٦ ص"
+    },
     {
       "action": "إضافة موظف: أسلام محمد",
       "time": "٢٠‏/٦‏/٢٠٢٦، ١١:٢٨:٣٢ ص"
